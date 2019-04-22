@@ -1,0 +1,140 @@
+# depslib dependency file v1.0
+1555854565 source:c:\codeblocks\process_mix_of_items\main.cpp
+	<string>
+	<iostream>
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"IdentityDetails.h"
+	"InputData.h"
+	"DisplayData.h"
+	<typeinfo>
+
+1555816273 source:c:\codeblocks\process_mix_of_items\src\phoneextension.cpp
+	"PhoneExtension.h"
+
+1555826980 c:\codeblocks\process_mix_of_items\include\phoneextension.h
+	"IdentityDetails.h"
+
+1555853690 c:\codeblocks\process_mix_of_items\include\identitydetails.h
+
+1555816267 source:c:\codeblocks\process_mix_of_items\src\age.cpp
+	"Age.h"
+
+1555816302 c:\codeblocks\process_mix_of_items\include\age.h
+	"IdentityDetails.h"
+
+1555816378 source:c:\codeblocks\process_mix_of_items\src\housenumber.cpp
+	"HouseNumber.h"
+
+1555816406 c:\codeblocks\process_mix_of_items\include\housenumber.h
+	"IdentityDetails.h"
+
+1555855164 source:c:\codeblocks\process_mix_of_items\src\displaydata.cpp
+	<string>
+	<iostream>
+	"DisplayData.h"
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+	"InputData.h"
+	"IdentityDetails.h"
+
+1555851325 c:\codeblocks\process_mix_of_items\include\displaydata.h
+
+1555855440 c:\codeblocks\process_mix_of_items\include\inputdata.h
+
+1555861999 source:c:\codeblocks\process_mix_of_items\src\inputdata.cpp
+	"InputData.h"
+	<string>
+	<iostream>
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+	"IdentityDetails.h"
+
+1555820787 source:c:\codeblocks\process_mix_of_items\src\showdata.cpp
+	"ShowData.h"
+
+1555820787 c:\codeblocks\process_mix_of_items\include\showdata.h
+
+1555828484 source:c:\codeblocks\process_mix_of_items\src\temp.cpp
+	"temp.h"
+
+1555828484 c:\codeblocks\process_mix_of_items\include\temp.h
+
+1555855164 source:e:\c++\1updated\process_mix_of_items\src\displaydata.cpp
+	<string>
+	<iostream>
+	"DisplayData.h"
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+	"InputData.h"
+	"IdentityDetails.h"
+
+1555851325 e:\c++\1updated\process_mix_of_items\include\displaydata.h
+
+1555936426 e:\c++\1updated\process_mix_of_items\include\phoneextension.h
+	"PhoneDirectory.h"
+
+1555853690 e:\c++\1updated\process_mix_of_items\include\identitydetails.h
+
+1555936417 e:\c++\1updated\process_mix_of_items\include\housenumber.h
+	"PhoneDirectory.h"
+
+1555936414 e:\c++\1updated\process_mix_of_items\include\age.h
+	"PhoneDirectory.h"
+
+1555910881 e:\c++\1updated\process_mix_of_items\include\inputdata.h
+	"PhoneDirectory.h"
+
+1555936438 e:\c++\1updated\process_mix_of_items\include\phonedirectory.h
+	<iostream>
+
+1555936283 source:e:\c++\1updated\process_mix_of_items\src\phonedirectory.cpp
+	"PhoneDirectory.h"
+
+1555936298 source:e:\c++\1updated\process_mix_of_items\src\age.cpp
+	"Age.h"
+
+1555936316 source:e:\c++\1updated\process_mix_of_items\src\phoneextension.cpp
+	"PhoneExtension.h"
+
+1555936333 source:e:\c++\1updated\process_mix_of_items\src\housenumber.cpp
+	"HouseNumber.h"
+
+1555936204 source:e:\c++\1updated\process_mix_of_items\main.cpp
+	<string>
+	<iostream>
+	<vector>
+	<memory>
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+
+1555910195 source:e:\c++\1updated\process_mix_of_items\src\inputdata.cpp
+	"InputData.h"
+	<string>
+	<iostream>
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+	"IdentityDetails.h"
+
+1555925030 source:e:\c++\1updated\process_mix_of_items\src\datastore.cpp
+	"DataStore.h"
+
+1555925020 e:\c++\1updated\process_mix_of_items\include\datastore.h
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+
+1555937672 source:e:\c++\1updated\process_mix_of_items\entryfeeddata.cpp
+	<string>
+	<iostream>
+	<vector>
+	<memory>
+	"PhoneExtension.h"
+	"HouseNumber.h"
+	"Age.h"
+

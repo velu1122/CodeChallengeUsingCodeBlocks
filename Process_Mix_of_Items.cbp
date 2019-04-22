@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Process_Mix_of_Items" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Process_Mix_of_Items" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Process_Mix_of_Items" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="EntryFeedData.cpp" />
+		<Unit filename="include/Age.h" />
+		<Unit filename="include/DataStore.h" />
+		<Unit filename="include/HouseNumber.h" />
+		<Unit filename="include/InputData.h" />
+		<Unit filename="include/PhoneDirectory.h" />
+		<Unit filename="include/PhoneExtension.h" />
+		<Unit filename="src/Age.cpp" />
+		<Unit filename="src/HouseNumber.cpp" />
+		<Unit filename="src/PhoneDirectory.cpp" />
+		<Unit filename="src/PhoneExtension.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
